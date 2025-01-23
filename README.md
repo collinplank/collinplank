@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Follow me on Spotify!</strong>
+  <b style="font-size: 24px; color: #1DB954;"><i>Follow me on Spotify!</i></b>
 </p>
 
 <p align="center">
