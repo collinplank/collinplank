@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/plank18">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=plank18&count=5&unique=true" alt="Recently Played on Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=plank18&count=1&unique=true" alt="Last Played on Spotify" />
   </a>
 </p>
 
