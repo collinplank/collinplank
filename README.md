@@ -5,15 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/collinplank/">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="50" alt="LinkedIn" />
-  </a>
+  <strong>Follow me on Spotify!</strong>
 </p>
-
----
 
 <p align="center">
   <a href="https://open.spotify.com/user/plank18">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=plank18&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=plank18&count=1&unique=true" alt="Last Played on Spotify" />
   </a>
 </p>
+
